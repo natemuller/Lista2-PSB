@@ -1,5 +1,5 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/nate/Desktop/PTP/Lista2-PSB/templates/output/Exercicio002'
+binary-path:     '/Users/nate/Desktop/PTP/Lista2-PSB-1/templates/output/Exercicio002'
 relocations:     []
 ...

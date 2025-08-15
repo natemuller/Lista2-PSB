@@ -1,7 +1,7 @@
 /*  
 Exercicio002.c
 
-Feito por Natan de Aragão Müller no dia 14/08/2025 às xxhxx
+Feito por Natan de Aragão Müller no dia 15/08/2025 às 14h41
 
 Enunciado: Escreva uma func ̧  ̃ao em C que receba um tempo em total de segundos desde a meia-noite (um valor maior ou
 igual a 0 e menor ou igual a 86399), retornando por refer ˆencia o n  ́umero de horas, de minutos e de segundos
